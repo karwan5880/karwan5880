@@ -13,17 +13,16 @@ I'm pursuing a PhD at **Universiti Tunku Abdul Rahman (UTAR)** in Kampar, workin
 ### Currently working on
 
 - **Robotics & embodied AI** — control, perception, and live software integration on humanoid hardware
-- **Systems & native tooling** — C++ and Python utilities, Windows/iPad experiments, and developer workflows
+- **Systems & software integration** — C++ and Python tooling, computer vision, and developer workflows
 - **Personal web projects** — Next.js + Cloudflare Workers apps and [leongkarwan.com](https://leongkarwan.com)
 
-### Selected repositories
+### Selected work
 
-| Repository | Stack | What it is |
+| Project | Stack | What it is |
 | --- | --- | --- |
 | [`k1-oop-demo`](https://github.com/karwan5880/k1-oop-demo) | `C++` | Teaching OOP live on a Booster K1 humanoid — a 15-minute demo that moves a real robot |
-| [`winrt_demo`](https://github.com/karwan5880/winrt_demo) | `C++` | Windows Graphics Capture API demo (`WinRT`) |
-| [`streak-habit`](https://github.com/karwan5880/streak-habit) | `Swift` | Minimal one-habit streak app built for Swift Playgrounds on iPad |
 | [`clock2`](https://github.com/karwan5880/clock2) | `Web` | Pocket — lightweight class reminders app |
+| [`leongkarwan.com`](https://leongkarwan.com) | `Next.js · Workers` | Personal portfolio and PhD daily work log |
 
 ### Core stack
 
