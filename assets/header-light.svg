@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" role="img" aria-label="Leong Kar Wan — PhD Student in Robotics, AI &amp; Software Integration at UTAR">
+  <title>Leong Kar Wan — Robotics, AI &amp; Software Integration</title>
+  <rect width="860" height="210" rx="6" fill="#edf2f3" />
+  <rect x="0.5" y="0.5" width="859" height="209" rx="5.5" fill="none" stroke="#c8d4d7" stroke-width="1" />
+
+  <!-- Subtle architectural grid lines -->
+  <line x1="48" y1="54" x2="812" y2="54" stroke="#c8d4d7" stroke-width="1" />
+  <line x1="48" y1="164" x2="812" y2="164" stroke="#c8d4d7" stroke-width="1" />
+  <line x1="48" y1="164" x2="176" y2="164" stroke="#3f6b78" stroke-width="2" />
+
+  <!-- Top metadata bar -->
+  <circle cx="53" cy="33" r="3.5" fill="#9b5f49" />
+  <text x="66" y="37" fill="#5f7076" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1.4">UTAR · KAMPAR, MALAYSIA</text>
+  <text x="812" y="37" text-anchor="end" fill="#3f6b78" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1.2">LEONGKARWAN.COM</text>
+
+  <!-- Name + subtitle -->
+  <text x="48" y="109" fill="#17242b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-1.4">Leong Kar Wan<tspan fill="#9b5f49">.</tspan></text>
+  <text x="48" y="140" fill="#4f6067" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400">PhD student working on robotics, AI, and software integration.</text>
+
+  <!-- Footer disciplines -->
+  <text x="48" y="188" fill="#5f7076" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.1">ROBOTICS  ·  AI  ·  C++  ·  PYTHON  ·  FULL-STACK</text>
+  <text x="812" y="188" text-anchor="end" fill="#91a6ac" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.1">M.ENG.SC · B.CS (HONS)</text>
+</svg>
